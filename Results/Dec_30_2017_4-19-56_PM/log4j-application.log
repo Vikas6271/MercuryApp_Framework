@@ -1,0 +1,16 @@
+2017-12-30 16:19:59,391 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestStart>>TC_101
+2017-12-30 16:20:36,599 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Application Launched successfuly
+2017-12-30 16:20:46,506 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-30 16:20:50,184 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-30 16:20:55,864 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on login
+2017-12-30 16:20:56,155 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Element Exist
+2017-12-30 16:20:59,499 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - TripType Selected successful
+2017-12-30 16:21:01,038 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on MY Info Link
+2017-12-30 16:21:02,610 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Departure point selected sucessfully
+2017-12-30 16:21:06,607 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Arriving point selected sucessfully
+2017-12-30 16:21:17,513 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Return Month point selected sucessfully
+2017-12-30 16:21:18,931 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Return Date selected sucessfully
+2017-12-30 16:22:58,199 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestSuccess>>TC_101
+2017-12-30 16:22:58,213 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-30 16:22:58,214 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-30 16:22:58,214 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 

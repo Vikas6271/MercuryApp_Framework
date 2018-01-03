@@ -1,0 +1,39 @@
+2017-12-30 17:05:53,361 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestStart>>TC_101
+2017-12-30 17:06:31,101 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Application Launched successfuly
+2017-12-30 17:06:38,586 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-30 17:06:42,644 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter username
+2017-12-30 17:06:48,446 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on login
+2017-12-30 17:06:48,840 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Element Exist
+2017-12-30 17:06:52,297 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - TripType Selected successful
+2017-12-30 17:06:53,982 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on MY Info Link
+2017-12-30 17:06:55,463 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Departure point selected sucessfully
+2017-12-30 17:06:59,149 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Arriving point selected sucessfully
+2017-12-30 17:07:10,088 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Return Month point selected sucessfully
+2017-12-30 17:07:11,962 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Return Date selected sucessfully
+2017-12-30 17:07:15,039 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Business Class selected successfully
+2017-12-30 17:07:16,480 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Airelines selected successfully
+2017-12-30 17:07:20,715 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click on Continue
+2017-12-30 17:07:23,967 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able To Select Paris Flight
+2017-12-30 17:07:27,923 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able To Select Newyork Flight
+2017-12-30 17:07:34,713 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - able to select both flights 
+2017-12-30 17:07:39,918 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter FirstPassFirst Name
+2017-12-30 17:07:44,249 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter FirstPassLast Name
+2017-12-30 17:07:46,115 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to Select MEAL for FIRSTPASS
+2017-12-30 17:07:50,184 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter SecondPassFirst Name
+2017-12-30 17:07:54,525 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter SecondPassFirst Name
+2017-12-30 17:07:56,191 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to Select MEAL for secondPASS
+2017-12-30 17:07:57,794 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to Select cardtype
+2017-12-30 17:08:02,580 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter cardnumber
+2017-12-30 17:08:06,965 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter CardFirstName
+2017-12-30 17:08:11,466 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter CardLastName
+2017-12-30 17:08:13,137 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to Select ExpirationMonth
+2017-12-30 17:08:14,778 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to Select ExpirationYear
+2017-12-30 17:08:19,125 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter BillingAdress
+2017-12-30 17:08:23,495 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter BillingCity
+2017-12-30 17:08:28,316 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to enter BillZip
+2017-12-30 17:08:39,732 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to Select Country
+2017-12-30 17:08:48,276 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - Able to click BuyFlights
+2017-12-30 17:08:48,297 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - <<TestSuccess>>TC_101
+2017-12-30 17:08:48,297 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-30 17:08:48,297 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
+2017-12-30 17:08:48,297 - com.testingmasters.TestScriptDefinitions.Module1 -INFO - 
