@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="177428" started-at="2017-12-30T11:35:50Z" finished-at="2017-12-30T11:38:48Z">
+  <suite name="Default suite" duration-ms="240796" started-at="2018-01-03T09:51:40Z" finished-at="2018-01-03T09:55:41Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="177428" started-at="2017-12-30T11:35:50Z" finished-at="2017-12-30T11:38:48Z">
+    <test name="Default test" duration-ms="240796" started-at="2018-01-03T09:51:40Z" finished-at="2018-01-03T09:55:41Z">
       <class name="com.testingmasters.TestScriptDefinitions.Module1">
-        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="BeforeSuite" is-config="true" duration-ms="875" started-at="2017-12-30T17:05:50Z" finished-at="2017-12-30T17:05:50Z">
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="BeforeSuite" is-config="true" duration-ms="1155" started-at="2018-01-03T15:21:39Z" finished-at="2018-01-03T15:21:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeSuite -->
-        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="BeforeClass" is-config="true" duration-ms="1" started-at="2017-12-30T17:05:51Z" finished-at="2017-12-30T17:05:51Z">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="BeforeClass" is-config="true" duration-ms="1" started-at="2018-01-03T15:21:40Z" finished-at="2018-01-03T15:21:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeClass -->
-        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="BeforeMethod" is-config="true" duration-ms="35665" started-at="2017-12-30T17:05:51Z" finished-at="2017-12-30T17:06:26Z">
+        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="BeforeMethod" is-config="true" duration-ms="46015" started-at="2018-01-03T15:21:40Z" finished-at="2018-01-03T15:22:26Z">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="TC_101()[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="TC_101" duration-ms="141579" started-at="2017-12-30T17:06:26Z" finished-at="2017-12-30T17:08:48Z">
+        <test-method status="PASS" signature="TC_101()[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="TC_101" duration-ms="194508" started-at="2018-01-03T15:22:26Z" finished-at="2018-01-03T15:25:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_101 -->
-        <test-method status="PASS" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="AfterMethod" is-config="true" duration-ms="109" started-at="2017-12-30T17:08:48Z" finished-at="2017-12-30T17:08:48Z">
+        <test-method status="PASS" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="AfterMethod" is-config="true" duration-ms="140" started-at="2018-01-03T15:25:41Z" finished-at="2018-01-03T15:25:41Z">
           <params>
             <param index="0">
               <value>
@@ -41,7 +41,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="AfterSuite" is-config="true" duration-ms="34398" started-at="2017-12-30T17:08:48Z" finished-at="2017-12-30T17:09:23Z">
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="AfterSuite" is-config="true" duration-ms="31955" started-at="2018-01-03T15:25:41Z" finished-at="2018-01-03T15:26:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterSuite -->

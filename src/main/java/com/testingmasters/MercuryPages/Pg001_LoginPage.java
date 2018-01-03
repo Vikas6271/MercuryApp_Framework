@@ -30,10 +30,12 @@ public class Pg001_LoginPage extends BasePage
 	public void login()
 	{
 //		weblib_setText(Edt_Username, "Vignesh");
-		weblib_setText(Edt_Username, "vikas6271");
+//		weblib_setText(Edt_Username, "vikas6271");
+		weblib_setText(Edt_Username, CommVar_UserName);
 		logEvent("Able to enter username", "Unable to enter username", stepstatus,driver);
 		
-		weblib_setText(Edt_Password, "trinity999");
+//		weblib_setText(Edt_Password, "trinity999");
+		weblib_setText(Edt_Password,CommVar_Password);
 		logEvent("Able to enter username", "Unable to enter Password", stepstatus,driver);
 		
 		weblib_clickElement(Btn_Login);
