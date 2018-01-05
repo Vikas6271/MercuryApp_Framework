@@ -1,0 +1,51 @@
+2018-01-05 09:36:51,133 - com.testingHRM.Module1 -INFO - <<TestStart>>TC101_AddQualificationDetails_WorkExperience
+2018-01-05 09:37:24,738 - com.testingHRM.Module1 -INFO - sucusfully launch browser
+2018-01-05 09:37:31,117 - com.testingHRM.Module1 -INFO - Able to enter user name 
+2018-01-05 09:37:34,979 - com.testingHRM.Module1 -INFO - able to enter password
+2018-01-05 09:37:41,634 - com.testingHRM.Module1 -INFO - able to click login butten
+2018-01-05 09:37:41,919 - com.testingHRM.Module1 -INFO - AApllication login sucessfull
+2018-01-05 09:37:44,186 - com.testingHRM.Module1 -INFO - Able to click on MyInfo
+2018-01-05 09:37:51,998 - com.testingHRM.Module1 -INFO - Able to click on Qualifications
+2018-01-05 09:37:59,452 - com.testingHRM.Module1 -INFO - Able to click on Add_Workexp
+2018-01-05 09:38:04,231 - com.testingHRM.Module1 -INFO - Able to enter Company
+2018-01-05 09:38:09,667 - com.testingHRM.Module1 -INFO - Able to enter job title
+2018-01-05 09:38:13,010 - com.testingHRM.Module1 -INFO - Able to enter from date 
+2018-01-05 09:38:16,465 - com.testingHRM.Module1 -INFO - Able to enter  to date 
+2018-01-05 09:38:22,738 - com.testingHRM.Module1 -INFO - Able to enter  Comment 
+2018-01-05 09:38:32,819 - com.testingHRM.Module1 -INFO - Able to click on Save button 
+2018-01-05 09:38:36,466 - com.testingHRM.Module1 -INFO - Able to click on check box
+2018-01-05 09:38:43,157 - com.testingHRM.Module1 -INFO - Able to click on Dlt_Workexp
+2018-01-05 09:38:43,379 - com.testingHRM.Module1 -INFO - Records deleted sucessfully
+2018-01-05 09:38:50,860 - com.testingHRM.Module1 -INFO - logout
+2018-01-05 09:38:50,876 - com.testingHRM.Module1 -INFO - <<TestSuccess>>TC101_AddQualificationDetails_WorkExperience
+2018-01-05 09:38:50,877 - com.testingHRM.Module1 -INFO - 
+2018-01-05 09:38:50,877 - com.testingHRM.Module1 -INFO - 
+2018-01-05 09:38:50,879 - com.testingHRM.Module1 -INFO - 
+2018-01-05 09:38:53,695 - com.testingHRM.Module1 -INFO - <<TestStart>>TC102_AddQualificationDetails_Education
+2018-01-05 09:39:15,372 - com.testingHRM.Module1 -INFO - sucusfully launch browser
+2018-01-05 09:39:19,249 - com.testingHRM.Module1 -INFO - Able to enter user name 
+2018-01-05 09:39:22,460 - com.testingHRM.Module1 -INFO - able to enter password
+2018-01-05 09:39:29,074 - com.testingHRM.Module1 -INFO - able to click login butten
+2018-01-05 09:39:29,279 - com.testingHRM.Module1 -INFO - AApllication login sucessfull
+2018-01-05 09:39:31,771 - com.testingHRM.Module1 -INFO - Able to click on MyInfo
+2018-01-05 09:39:40,448 - com.testingHRM.Module1 -INFO - Able to click on Qualifications
+2018-01-05 09:39:46,392 - com.testingHRM.Module1 -INFO - Able to click on Add_Education
+2018-01-05 09:39:47,917 - com.testingHRM.Module1 -INFO - <<TestSuccess>>TC102_AddQualificationDetails_Education
+2018-01-05 09:39:47,918 - com.testingHRM.Module1 -INFO - 
+2018-01-05 09:39:47,918 - com.testingHRM.Module1 -INFO - 
+2018-01-05 09:39:47,919 - com.testingHRM.Module1 -INFO - 
+2018-01-05 09:39:48,146 - com.testingHRM.Module1 -INFO - <<TestStart>>TC103_AddQualificationDetails_Skills
+2018-01-05 09:40:08,195 - com.testingHRM.Module1 -INFO - sucusfully launch browser
+2018-01-05 09:40:12,488 - com.testingHRM.Module1 -INFO - Able to enter user name 
+2018-01-05 09:40:15,557 - com.testingHRM.Module1 -INFO - able to enter password
+2018-01-05 09:40:22,073 - com.testingHRM.Module1 -INFO - able to click login butten
+2018-01-05 09:40:22,458 - com.testingHRM.Module1 -INFO - AApllication login sucessfull
+2018-01-05 09:40:24,491 - com.testingHRM.Module1 -INFO - Able to click on MyInfo
+2018-01-05 09:40:33,655 - com.testingHRM.Module1 -INFO - Able to click on Qualifications
+2018-01-05 09:40:40,300 - com.testingHRM.Module1 -INFO - Able to click on Add_Skill
+2018-01-05 09:40:41,235 - com.testingHRM.Module1 -INFO - <<TestSuccess>>TC103_AddQualificationDetails_Skills
+2018-01-05 09:40:41,236 - com.testingHRM.Module1 -INFO - 
+2018-01-05 09:40:41,236 - com.testingHRM.Module1 -INFO - 
+2018-01-05 09:40:41,236 - com.testingHRM.Module1 -INFO - 
+2018-01-05 09:40:41,373 - com.testingHRM.Module1 -INFO - <<TestStart>>TC104_AddQualificationDetails_Languages
+2018-01-05 09:41:05,172 - com.testingHRM.Module1 -INFO - sucusfully launch browser

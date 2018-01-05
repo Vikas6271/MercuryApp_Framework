@@ -1,0 +1,19 @@
+2018-01-04 12:50:30,452 - com.testingHRM.Module1 -INFO - <<TestStart>>TC101_AddQualificationDetails_WorkExperience
+2018-01-04 12:51:07,683 - com.testingHRM.Module1 -INFO - sucusfully launch browser
+2018-01-04 12:51:13,972 - com.testingHRM.Module1 -INFO - Able to enter user name 
+2018-01-04 12:51:17,037 - com.testingHRM.Module1 -INFO - able to enter password
+2018-01-04 12:51:24,292 - com.testingHRM.Module1 -INFO - able to click login butten
+2018-01-04 12:51:24,511 - com.testingHRM.Module1 -INFO - AApllication login sucessfull
+2018-01-04 12:51:26,477 - com.testingHRM.Module1 -INFO - Able to click on MyInfo
+2018-01-04 12:51:38,947 - com.testingHRM.Module1 -INFO - Able to click on Qualifications
+2018-01-04 12:51:47,038 - com.testingHRM.Module1 -INFO - Able to click on Add_Workexp
+2018-01-04 12:51:52,664 - com.testingHRM.Module1 -INFO - Able to enter Company
+2018-01-04 12:51:58,440 - com.testingHRM.Module1 -INFO - Able to enter job title
+2018-01-04 12:52:02,124 - com.testingHRM.Module1 -INFO - Able to enter from date 
+2018-01-04 12:52:04,667 - com.testingHRM.Module1 -INFO - Able to enter  to date 
+2018-01-04 12:52:11,707 - com.testingHRM.Module1 -INFO - Able to enter  Comment 
+2018-01-04 12:52:16,783 - com.testingHRM.Module1 -INFO - Able to click on Save button 
+2018-01-04 12:52:16,799 - com.testingHRM.Module1 -INFO - <<TestSuccess>>TC101_AddQualificationDetails_WorkExperience
+2018-01-04 12:52:16,803 - com.testingHRM.Module1 -INFO - 
+2018-01-04 12:52:16,804 - com.testingHRM.Module1 -INFO - 
+2018-01-04 12:52:16,805 - com.testingHRM.Module1 -INFO - 

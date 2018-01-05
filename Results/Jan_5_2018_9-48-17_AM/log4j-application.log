@@ -1,0 +1,9 @@
+2018-01-05 09:48:19,154 - com.testingHRM.Module1 -INFO - <<TestStart>>TC102_AddQualificationDetails_Education
+2018-01-05 09:48:42,308 - com.testingHRM.Module1 -INFO - sucusfully launch browser
+2018-01-05 09:48:48,816 - com.testingHRM.Module1 -INFO - Able to enter user name 
+2018-01-05 09:48:50,840 - com.testingHRM.Module1 -INFO - able to enter password
+2018-01-05 09:48:56,477 - com.testingHRM.Module1 -INFO - able to click login butten
+2018-01-05 09:48:56,639 - com.testingHRM.Module1 -INFO - AApllication login sucessfull
+2018-01-05 09:48:59,688 - com.testingHRM.Module1 -INFO - Able to click on MyInfo
+2018-01-05 09:49:11,372 - com.testingHRM.Module1 -INFO - Able to click on Qualifications
+2018-01-05 09:49:39,238 - com.testingHRM.Module1 -INFO - Able to click on Add_Education

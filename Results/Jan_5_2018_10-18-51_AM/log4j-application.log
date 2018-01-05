@@ -1,0 +1,26 @@
+2018-01-05 10:18:54,128 - com.testingHRM.Module1 -INFO - <<TestStart>>TC102_AddQualificationDetails_Education
+2018-01-05 10:19:30,195 - com.testingHRM.Module1 -INFO - sucusfully launch browser
+2018-01-05 10:19:35,218 - com.testingHRM.Module1 -INFO - Able to enter user name 
+2018-01-05 10:19:38,635 - com.testingHRM.Module1 -INFO - able to enter password
+2018-01-05 10:19:47,727 - com.testingHRM.Module1 -INFO - able to click login butten
+2018-01-05 10:19:47,992 - com.testingHRM.Module1 -INFO - AApllication login sucessfull
+2018-01-05 10:19:50,745 - com.testingHRM.Module1 -INFO - Able to click on MyInfo
+2018-01-05 10:19:59,495 - com.testingHRM.Module1 -INFO - Able to click on Qualifications
+2018-01-05 10:20:05,939 - com.testingHRM.Module1 -INFO - Able to click on Add_Education
+2018-01-05 10:20:08,437 - com.testingHRM.Module1 -INFO - able to click
+2018-01-05 10:20:09,214 - com.testingHRM.Module1 -INFO - Able to select levell
+2018-01-05 10:20:13,412 - com.testingHRM.Module1 -INFO - Able to enter instute name
+2018-01-05 10:20:18,545 - com.testingHRM.Module1 -INFO - Able to enter Specalization 
+2018-01-05 10:20:22,369 - com.testingHRM.Module1 -INFO - Able to enter Year 
+2018-01-05 10:20:27,517 - com.testingHRM.Module1 -INFO - Able to enter Gpa
+2018-01-05 10:20:30,656 - com.testingHRM.Module1 -INFO - Able to enter Start date
+2018-01-05 10:20:34,238 - com.testingHRM.Module1 -INFO - Able to enter End date
+2018-01-05 10:20:43,615 - com.testingHRM.Module1 -INFO - Able to click on save 
+2018-01-05 10:20:47,832 - com.testingHRM.Module1 -INFO - Able to click on Checkbox 
+2018-01-05 10:20:56,057 - com.testingHRM.Module1 -INFO - Able to click on Dlt_Education
+2018-01-05 10:20:56,338 - com.testingHRM.Module1 -INFO - Records deleted sucessfully
+2018-01-05 10:21:04,183 - com.testingHRM.Module1 -INFO - logout
+2018-01-05 10:21:04,200 - com.testingHRM.Module1 -INFO - <<TestSuccess>>TC102_AddQualificationDetails_Education
+2018-01-05 10:21:04,201 - com.testingHRM.Module1 -INFO - 
+2018-01-05 10:21:04,202 - com.testingHRM.Module1 -INFO - 
+2018-01-05 10:21:04,202 - com.testingHRM.Module1 -INFO - 

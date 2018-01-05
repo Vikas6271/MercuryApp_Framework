@@ -1,51 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="1" ignored="0" total="5" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="240796" started-at="2018-01-03T09:51:40Z" finished-at="2018-01-03T09:55:41Z">
+  <suite name="Default suite" duration-ms="604328" started-at="2018-01-05T04:55:48Z" finished-at="2018-01-05T05:05:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="240796" started-at="2018-01-03T09:51:40Z" finished-at="2018-01-03T09:55:41Z">
-      <class name="com.testingmasters.TestScriptDefinitions.Module1">
-        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="BeforeSuite" is-config="true" duration-ms="1155" started-at="2018-01-03T15:21:39Z" finished-at="2018-01-03T15:21:40Z">
+    <test name="Default test" duration-ms="604328" started-at="2018-01-05T04:55:48Z" finished-at="2018-01-05T05:05:52Z">
+      <class name="com.testingHRM.Module1">
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:com.testingHRM.Module1@60c6f5b]" name="BeforeSuite" is-config="true" duration-ms="739" started-at="2018-01-05T10:25:47Z" finished-at="2018-01-05T10:25:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeSuite -->
-        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="BeforeClass" is-config="true" duration-ms="1" started-at="2018-01-03T15:21:40Z" finished-at="2018-01-03T15:21:40Z">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:com.testingHRM.Module1@60c6f5b]" name="BeforeClass" is-config="true" duration-ms="1" started-at="2018-01-05T10:25:48Z" finished-at="2018-01-05T10:25:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeClass -->
-        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="BeforeMethod" is-config="true" duration-ms="46015" started-at="2018-01-03T15:21:40Z" finished-at="2018-01-03T15:22:26Z">
+        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:com.testingHRM.Module1@60c6f5b]" name="BeforeMethod" is-config="true" duration-ms="23103" started-at="2018-01-05T10:25:48Z" finished-at="2018-01-05T10:26:11Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.testingmasters.TestScriptDefinitions.Module1.TC_101()]]>
+                <![CDATA[public void com.testingHRM.Module1.TC101_AddQualificationDetails_WorkExperience()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="TC_101()[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="TC_101" duration-ms="194508" started-at="2018-01-03T15:22:26Z" finished-at="2018-01-03T15:25:41Z">
+        <test-method status="PASS" signature="TC101_AddQualificationDetails_WorkExperience()[pri:1, instance:com.testingHRM.Module1@60c6f5b]" name="TC101_AddQualificationDetails_WorkExperience" duration-ms="92962" started-at="2018-01-05T10:26:11Z" finished-at="2018-01-05T10:27:44Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_101 -->
-        <test-method status="PASS" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="AfterMethod" is-config="true" duration-ms="140" started-at="2018-01-03T15:25:41Z" finished-at="2018-01-03T15:25:41Z">
+        </test-method> <!-- TC101_AddQualificationDetails_WorkExperience -->
+        <test-method status="PASS" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.testingHRM.Module1@60c6f5b]" name="AfterMethod" is-config="true" duration-ms="2937" started-at="2018-01-05T10:27:44Z" finished-at="2018-01-05T10:27:47Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_101 status=SUCCESS method=Module1.TC_101()[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b] output={null}]]]>
+                <![CDATA[[TestResult name=TC101_AddQualificationDetails_WorkExperience status=SUCCESS method=Module1.TC101_AddQualificationDetails_WorkExperience()[pri:1, instance:com.testingHRM.Module1@60c6f5b] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:com.testingmasters.TestScriptDefinitions.Module1@60c6f5b]" name="AfterSuite" is-config="true" duration-ms="31955" started-at="2018-01-03T15:25:41Z" finished-at="2018-01-03T15:26:13Z">
+        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:com.testingHRM.Module1@60c6f5b]" name="BeforeMethod" is-config="true" duration-ms="22432" started-at="2018-01-05T10:27:47Z" finished-at="2018-01-05T10:28:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testingHRM.Module1.TC102_AddQualificationDetails_Education()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="TC102_AddQualificationDetails_Education()[pri:2, instance:com.testingHRM.Module1@60c6f5b]" name="TC102_AddQualificationDetails_Education" duration-ms="98089" started-at="2018-01-05T10:28:09Z" finished-at="2018-01-05T10:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC102_AddQualificationDetails_Education -->
+        <test-method status="PASS" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.testingHRM.Module1@60c6f5b]" name="AfterMethod" is-config="true" duration-ms="2802" started-at="2018-01-05T10:29:47Z" finished-at="2018-01-05T10:29:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC102_AddQualificationDetails_Education status=SUCCESS method=Module1.TC102_AddQualificationDetails_Education()[pri:2, instance:com.testingHRM.Module1@60c6f5b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:com.testingHRM.Module1@60c6f5b]" name="BeforeMethod" is-config="true" duration-ms="18589" started-at="2018-01-05T10:29:50Z" finished-at="2018-01-05T10:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testingHRM.Module1.TC103_AddQualificationDetails_Skills()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="TC103_AddQualificationDetails_Skills()[pri:3, instance:com.testingHRM.Module1@60c6f5b]" name="TC103_AddQualificationDetails_Skills" duration-ms="110178" started-at="2018-01-05T10:30:09Z" finished-at="2018-01-05T10:31:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC103_AddQualificationDetails_Skills -->
+        <test-method status="PASS" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.testingHRM.Module1@60c6f5b]" name="AfterMethod" is-config="true" duration-ms="4708" started-at="2018-01-05T10:31:59Z" finished-at="2018-01-05T10:32:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC103_AddQualificationDetails_Skills status=SUCCESS method=Module1.TC103_AddQualificationDetails_Skills()[pri:3, instance:com.testingHRM.Module1@60c6f5b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:com.testingHRM.Module1@60c6f5b]" name="BeforeMethod" is-config="true" duration-ms="44969" started-at="2018-01-05T10:32:03Z" finished-at="2018-01-05T10:32:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testingHRM.Module1.TC104_AddQualificationDetails_Languages()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="FAIL" signature="TC104_AddQualificationDetails_Languages()[pri:4, instance:com.testingHRM.Module1@60c6f5b]" name="TC104_AddQualificationDetails_Languages" duration-ms="74441" started-at="2018-01-05T10:32:48Z" finished-at="2018-01-05T10:34:03Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]at org.testng.Assert.fail(Assert.java:96)at org.testng.Assert.failNotEquals(Assert.java:776)at org.testng.Assert.assertEqualsImpl(Assert.java:137)at org.testng.Assert.assertEquals(Assert.java:118)at org.testng.Assert.assertEquals(Assert.java:568)at org.testng.Assert.assertEquals(Assert.java:578)at com.testingmasters.library.Util.logEvent(Util.java:728)at com.testingmasters.hrm.Pg8_Add_Language.Add_lang(Pg8_Add_Language.java:44)at com.testingHRM.Module1.TC104_AddQualificationDetails_Languages(Module1.java:87)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC104_AddQualificationDetails_Languages -->
+        <test-method status="PASS" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.testingHRM.Module1@60c6f5b]" name="AfterMethod" is-config="true" duration-ms="193" started-at="2018-01-05T10:34:03Z" finished-at="2018-01-05T10:34:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC104_AddQualificationDetails_Languages status=FAILURE method=Module1.TC104_AddQualificationDetails_Languages()[pri:4, instance:com.testingHRM.Module1@60c6f5b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:com.testingHRM.Module1@60c6f5b]" name="BeforeMethod" is-config="true" duration-ms="27561" started-at="2018-01-05T10:34:04Z" finished-at="2018-01-05T10:34:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testingHRM.Module1.TC105_AddQualificationDetails_License()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="TC105_AddQualificationDetails_License()[pri:5, instance:com.testingHRM.Module1@60c6f5b]" name="TC105_AddQualificationDetails_License" duration-ms="78132" started-at="2018-01-05T10:34:31Z" finished-at="2018-01-05T10:35:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC105_AddQualificationDetails_License -->
+        <test-method status="PASS" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.testingHRM.Module1@60c6f5b]" name="AfterMethod" is-config="true" duration-ms="2645" started-at="2018-01-05T10:35:49Z" finished-at="2018-01-05T10:35:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC105_AddQualificationDetails_License status=SUCCESS method=Module1.TC105_AddQualificationDetails_License()[pri:5, instance:com.testingHRM.Module1@60c6f5b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:com.testingHRM.Module1@60c6f5b]" name="AfterSuite" is-config="true" duration-ms="32407" started-at="2018-01-05T10:35:52Z" finished-at="2018-01-05T10:36:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterSuite -->
-      </class> <!-- com.testingmasters.TestScriptDefinitions.Module1 -->
+      </class> <!-- com.testingHRM.Module1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
